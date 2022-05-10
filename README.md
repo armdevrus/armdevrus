@@ -5,19 +5,19 @@
 
 - 🤝 I’m looking for help with [react-chatApp](https://github.com/armdevrus/ChatApp)
 
-- 📝 I regularly write articles on <a href="https://instagram.com/aiarmanbe" target="blank"><img align="center" src="https://www.svgrepo.com/show/183614/vk-vk.svg" alt="aiarmanbe" height="30" width="40" /></a>
+- 📝 I regularly write articles on <a href="https://vk.com/aisenov7" target="blank"><img align="center" src="https://www.svgrepo.com/show/183614/vk-vk.svg" alt="vk-icon" height="30" width="40" /></a>
 
 - 💬 Ask me about **React**
 
-- 📄 Know about my experiences [https://hh.ru/resume/666dfc8dff079b60b80039ed1f466d6c5a4b63?customDomain=1](https://hh.ru/resume/666dfc8dff079b60b80039ed1f466d6c5a4b63?customDomain=1)
+- 📄 Know about my experiences: [resume](https://hh.ru/resume/666dfc8dff079b60b80039ed1f466d6c5a4b63?customDomain=1)
 
-- ⚡ Fun fact **I love programming👨🏼‍💻 and traveling around the world❤️**
+- ⚡ Fun fact: **I love programming👨🏼‍💻 and traveling around the world❤️**
 
 ![](https://komarev.com/ghpvc/?username=armdevrus&style=for-the-badge)
 ## 💌Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aisenovdev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArmanAisenov)
-<a href="https://instagram.com/aiarmanbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiarmanbe" height="30" width="40" /></a>
+<a href="https://instagram.com/aiarmanbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-icon" height="30" width="40" /></a>
 
 ## 👨🏻‍💻My stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=armdevrus&theme=swift )](https://github.com/armdevrus/github-profile-trophy)
