@@ -9,14 +9,15 @@
 
 - 💬 Ask me about **React**
 
+- 📫 How to reach me **aisenovdev@gmail.com**
+
 - 📄 Know about my experiences [https://hh.ru/resume/666dfc8dff079b60b80039ed1f466d6c5a4b63?customDomain=1](https://hh.ru/resume/666dfc8dff079b60b80039ed1f466d6c5a4b63?customDomain=1)
 
 - ⚡ Fun fact **I love programming👨🏼‍💻 and traveling around the world❤️**
 
 ![](https://komarev.com/ghpvc/?username=armdevrus&style=for-the-badge)
-## 💌Contacts:
+## 💌Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArmanAisenov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBmWwScfbZcBJFjqTCCKdcPRKLhzSzFslvfxNXmJLHwctFZgCBNqPBGpZJzkJXTGxwMzFFC)
 <a href="https://instagram.com/aiarmanbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiarmanbe" height="30" width="40" /></a>
 
 ## 👨🏻‍💻My stats:
