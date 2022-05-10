@@ -5,6 +5,10 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"><a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCGDMChQDnFSjXRbxQGjSGLQdVQwspmqvZzjhKmTKczspDxsMctpRXqhrXkgMHzpWZSmQV" target="_blank"></a></img>
 </div>
 <img src="https://img.shields.io/github/followers/armdevrus?style=social" alt="followers"/>
+<hr/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armdevrus)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
