@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://hh.ru/resume/666dfc8dff079b60b80039ed1f466d6c5a4b63?customDomain=1](https://hh.ru/resume/666dfc8dff079b60b80039ed1f466d6c5a4b63?customDomain=1)
 
-- ⚡ Fun fact **I love programming. I love traveling around the world❤️**
+- ⚡ Fun fact **I love programming👨🏼‍💻 and traveling around the world❤️**
 
 ![](https://komarev.com/ghpvc/?username=armdevrus&style=for-the-badge)
 ## 💌Contacts:
