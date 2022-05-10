@@ -5,8 +5,11 @@
 ## My stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=armdevrus)](https://github.com/armdevrus/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armdevrus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armdevrus&show_icons=true&theme=radical&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armdevrus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Pet-projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=armdevrus&repo=react-food-spa)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=armdevrus&repo=react-movies)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=armdevrus&repo=react-shop)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **armdevrus/armdevrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
