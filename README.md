@@ -17,7 +17,7 @@
 ## 💌Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aisenovdev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArmanTelegramRus)
-<a href="https://instagram.com/aiarmanbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-icon" height="30" width="40" /></a>
+<a href="https://instagram.com/armancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-icon" height="30" width="40" /></a>
 
 ## 👨🏻‍💻My stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=armdevrus&theme=swift )](https://github.com/armdevrus/github-profile-trophy)
